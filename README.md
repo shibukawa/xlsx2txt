@@ -24,7 +24,7 @@ You can cnage id column by using `-i 2`. In this case left cells from id cell ar
 
 If you want to ignore worksheet whose name starts with `Test`, you can pass `-s Test` as an option.
 
-# .gitconfig
+# ~/.gitconfig or $GIT_DIR/config
 
     [diff "xlsx"]
         binary = true
